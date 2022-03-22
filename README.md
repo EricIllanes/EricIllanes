@@ -1,7 +1,7 @@
 ### ¡Hola a todos!👋
 
 Actualmente estudiante de la carrera Full Stack Web Developer, me encuentro en la estapa final del bootcamp "Henry".
-<p>
+<div>
 👩‍💻 Tengo manejo en las siguientes tecnologías y lenguajes:
 
 
@@ -17,7 +17,7 @@ Actualmente estudiante de la carrera Full Stack Web Developer, me encuentro en l
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
 
-</p>
+</div>
 
 
  ✨Si quieres contactar conmigo puedes hacerlo a través de los siguientes medios:
