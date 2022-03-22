@@ -17,7 +17,13 @@ Actualmente estudiante de la carrera Full Stack Web Developer, me encuentro en l
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
 
+
+
+
  ✨Si quieres contactar conmigo puedes hacerlo a través de los siguientes medios:
+ 
+ 
+ 
 📩 e.icuriqueo@gmail.com
 
 
