@@ -1,7 +1,8 @@
 ### ¡Hola a todos!👋
 
 Actualmente estudiante de la carrera Full Stack Web Developer, me encuentro en la estapa final del bootcamp "Henry".
-👩‍💻 Tengo manejo de skills en las tecnologías:
+
+👩‍💻 Tengo manejo en las siguientes tecnologías y lenguajes:
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -15,6 +16,11 @@ Actualmente estudiante de la carrera Full Stack Web Developer, me encuentro en l
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
+
+ ✨Si quieres contactar conmigo puedes hacerlo a través de los siguientes medios:
+📩 e.icuriqueo@gmail.com
+
+
 <!--
 **EricIllanes/EricIllanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
