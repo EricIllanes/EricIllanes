@@ -15,18 +15,18 @@ Actualmente estudiante de la carrera Full Stack Web Developer, me encuentro en l
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/><br>
 
 
 
-<br>
- ✨Si quieres contactar conmigo puedes hacerlo a través de los siguientes medios:
+
+ <br>✨Si quieres contactar conmigo puedes hacerlo a través de los siguientes medios:<br>
  
  
- <br>
-📩 e.icuriqueo@gmail.com
 
-<br>
+📩 e.icuriqueo@gmail.com<br>
+
+
 <!--
 **EricIllanes/EricIllanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
