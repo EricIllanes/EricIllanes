@@ -1,6 +1,6 @@
 ### ¡Hola a todos!👋
 
-Actualmente estudiante de la carrera Full Stack Web Developer, me encuentro en la estapa final del bootcamp "Henry".
+Soy Eric Illanes, Full Stack Web Developer, actualmente me encuentro en búsqueda de mi primer empleo como desarrollador. Si estás interesado, hecha un vistazon a mi perfil!.
 
 👩‍💻 Tengo manejo en las siguientes tecnologías y lenguajes:
 
