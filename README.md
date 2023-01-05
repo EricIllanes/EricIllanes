@@ -1,6 +1,6 @@
 ### ¡Hola a todos!👋
 
-Soy Eric Illanes, Full Stack Web Developer, actualmente me encuentro en búsqueda de mi primer empleo como desarrollador. Si estás interesado, hecha un vistazon a mi perfil!.
+Soy Eric Illanes, Full Stack Web Developer, actualmente me encuentro en búsqueda de empleo como desarrollador. Si estás interesado, hecha un vistazon a mi perfil!.
 
 👩‍💻 Tengo manejo en las siguientes tecnologías y lenguajes:
 
