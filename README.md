@@ -19,7 +19,7 @@ Soy Eric Illanes, Full Stack Web Developer, actualmente me encuentro en búsqued
 
 
 
- <br>✨Si quieres contactar conmigo puedes hacerlo a través de los siguientes medios:<br>
+ <br>✨Si quieres contactar conmigo puedes escribirme al siguiente correo:<br>
  
  
 
